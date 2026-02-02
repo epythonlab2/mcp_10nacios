@@ -1,11 +1,12 @@
 {
-    "servers": {
-        "tenxfeedbackanalytics": {
+    "mcpServers": {
+        "tenxanalyticsmcp1": {
+            "name": "tenxanalyticsmcp",
             "url": "https://mcppulse.10academy.org/proxy",
             "type": "http",
             "headers": {
                 "x-Device": "linux",
-                "x-Coding-Tool": "vscode"
+                "x-Coding-Tool": "cursor"
             }
         }
     },
